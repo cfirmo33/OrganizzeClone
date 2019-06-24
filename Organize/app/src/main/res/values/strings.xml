@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Organize</string>
+    <string name="j_tenho_uma_conta">Já tenho uma conta</string>
+    <string name="junte_se_a_mais_de_meio_milh_o_n_de_pessoas_e_comece_j">Junte-se a mais de meio milhão  de pessoas e comece já</string>
+    <string name="cadastre_se">CADASTRE-SE</string>
+    <string name="crie_sua_conta_gr_tis">Crie sua conta grátis</string>
+    <string name="email">Email</string>
+    <string name="nome">Nome</string>
+    <string name="acesse_sua_conta">Acesse sua conta</string>
+    <string name="hint">hint</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="termos_de_uso">Termos de uso</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="ex_sal_rio">Ex: Salário</string>
+    <string name="ex_sal_rio_mensal">Ex: Salário Mensal</string>
+    <string name="ex_19_10_2019">Ex: 19/10/2019</string>
+    <string name="r_00_00">R$ 00.00</string>
+    <string name="saldo_geral">Seu Saldo Geral</string>
+    <string name="r_0">R$ 0</string>
+    <string name="carregando">Carregando</string>
+    <string name="sair">Sair</string>
+    <string name="titulo">Titulo</string>
+    <string name="categoria">Categoria</string>
+    <string name="valor">valor</string>
+</resources>
